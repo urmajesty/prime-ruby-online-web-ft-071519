@@ -1,3 +1,4 @@
 def prime?(num)
-  if  number  >= 2
+  if  num  >= 2
+    
     
